@@ -1,4 +1,5 @@
-name = "fancy-meadow-b776"
+# wrangler.toml
+name = 'dawn-sound-49f4'
 main = "src/worker.js"
 compatibility_date = "2026-10-01"
 compatibility_flags = ["nodejs_compat"]
